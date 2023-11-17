@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ScrollingTextApp</string>
+    <string name="article_title">Beatles Anthology Vol. 1</string>
+    <string name="article_subtitle">Behind That Locker Door: Beatles Rarities!</string>
+    <string name="article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at tellus quis arcu condimentum euismod vel id sem.
+        \n\n Mauris luctus ac sem ut congue. <b>Curabitu</b> rhoncus nisi ac metus luctus, vitae aliquam lectus elementum. Proin nec nunc nec dolor porta pharetra malesuada id ex. Sed vehicula consectetur mi, sit amet malesuada leo auctor ut.
+
+        \n\n
+        <b>Aliquam</b> vel nisi eget nisl accumsan tincidunt id eget diam. <i>Aliquam</i> nec arcu eget felis semper molestie. Quisque vehicula volutpat augue finibus molestie. Pellentesque elementum a tortor sit amet venenatis. Ut congue metus non pellentesque cursus. In consectetur nulla vel molestie accumsan. Sed quis maximus metus.
+
+        \n\n
+        Proin ultricies vitae orci vitae <i>venenatis</i>. Ut ac odio vitae est imperdiet pharetra.
+
+        \n\n
+        Vivamus luctus iaculis rhoncus. Duis dictum, eros nec scelerisque vehicula, augue elit rhoncus sapien, nec vulputate dui tortor quis mauris. Sed commodo cursus purus ut pellentesque. Sed faucibus risus tristique iaculis tempor. Ut odio tortor, ultricies a pharetra ut, cursus ac enim. Vivamus vestibulum ante vel augue euismod, sit amet consectetur ante sagittis. Nulla facilisi. Vestibulum facilisis fermentum ipsum, non cursus ipsum rhoncus et. Phasellus vitae ligula rhoncus, dapibus augue sed, efficitur lorem. Aliquam pellentesque lobortis nibh at posuere. Morbi euismod elementum metus ut consequat.
+
+        \n\n
+        Suspendisse libero lectus, www.rockument.com sagittis sit amet blandit sit amet, gravida eu ligula. Maecenas felis justo, tincidunt sit amet dignissim eget, consectetur vitae nisl. Donec sed efficitur est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+        \n\n
+        Nam felis neque, finibus ac est nec, fringilla auctor ipsum. Maecenas id finibus leo, at sollicitudin massa. Proin eget faucibus justo, ut ullamcorper neque. Duis elementum purus eu mauris congue faucibus. Aliquam iaculis accumsan lacinia. Pellentesque diam magna, scelerisque a ornare id, pulvinar sed ante.</string>
+</resources>
